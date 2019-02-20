@@ -1,0 +1,48 @@
+\lstset{
+	basicstyle=\small\ttfamily,
+	columns=flexible,
+	breaklines=true,
+	alsoletter={+},
+}
+
+% Minimal (M3-Rascal) syntax.
+\newcommand*{\irsc}[1]{\lstinline[language=m3]+#1+} % inline manifest syntax
+\lstdefinelanguage{m3}{
+	basicstyle=\ttfamily\scriptsize,
+	keywordstyle=\bfseries,
+	keywords={m3,declarations,methodInvocation},
+	literate={<-}{$\leftarrow$}{1},
+	tabsize=2,
+	alsoletter={-}
+}
+
+\newcommand{\code}[1]{{\small \texttt{#1}}}
+
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{\color{black} 
+		\node[shape=circle,draw=cyan,fill=black!10!white,inner sep=.3pt] (char) {{{\texttt\textbf #1}}};}}
+\def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;} 
+
+
+% Usual suspects
+\usepackage{xspace}
+\newcommand*{\ie}{i.e.,\@\xspace}
+\newcommand*{\eg}{e.g.,\@\xspace}
+\newcommand*{\cf}{cf.\@\xspace}
+\makeatletter
+\newcommand*{\etc}{%
+	\@ifnextchar{.}%
+	{etc}%
+	{etc.\@\xspace}%
+}
+\makeatother
+\newcommand*{\etal}{et~al.\@\xspace}
+
+\newcommand{\nb}[2]{
+	\fbox{\bfseries\sffamily\scriptsize#1}
+	{\sf\small$\blacktriangleright$\textit{#2}$\blacktriangleleft$}
+}
+\newcommand\MAX[1]{\textcolor{blue}{\nb{MAX}{#1}}}
+\newcommand\TD[1]{\textcolor{cyan}{\nb{TD}{#1}}}
+\newcommand\LO[1]{\textcolor{green}{\nb{LO}{#1}}}
+\newcommand\JDR[1]{\textcolor{orange}{\nb{JDR}{#1}}}
+\newcommand\PN[1]{\textcolor{gray}{\nb{PN}{#1}}}

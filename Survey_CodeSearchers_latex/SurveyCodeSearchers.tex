@@ -1,0 +1,97 @@
+\pdfminorversion=5
+\pdfobjcompresslevel=2
+
+\RequirePackage[l2tabu, orthodox]{nag}
+
+\documentclass[10pt,conference]{IEEEtran}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+%\IEEEoverridecommandlockouts
+% The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
+
+\usepackage[colorlinks=true,allcolors=blue]{hyperref}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage[all]{nowidow}
+\usepackage[inline]{enumitem}
+\usepackage[scaled]{beramono}
+\usepackage{booktabs} % For formal tables
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage[tight,footnotesize]{subfigure}
+\usepackage{multirow}
+\usepackage{balance}
+\usepackage{listings}
+%\usepackage{microtype}
+\usepackage{cleveref}
+
+% Copyright
+%\setcopyright{none}
+%\setcopyright{acmcopyright}
+%\setcopyright{acmlicensed}
+%\setcopyright{rightsretained}
+%\setcopyright{usgov}
+%\setcopyright{usgovmixed}
+%\setcopyright{cagov}
+%\setcopyright{cagovmixed}
+
+\input{commands}
+
+\begin{document}
+	
+	\title{Investigating code search engines in the recommendation system domain  }%to Assist Developers in.  for  in Software Development
+	
+
+
+	
+	\maketitle
+	
+	\begin{abstract}	
+
+		% Abstract
+The problem of learning new APIs, and in general, to develop new complex software systems are spread in recent years and rise more and more in relevance in the community. Most of the existing recommendation systems rely on the source code and, in particular, to provide examples in form of snippets of code. In this work, we want to provide a brief overview of the existing approaches in the literature that face this problem, analyzing the techniques behind each tool and their accuracy and effectiveness. Then, we present our approach to the problem, highlighting what are the elements of novelty that we want to bring in this field. 
+ 
+
+	\end{abstract}
+
+	
+	\section{Introduction}
+	\label{sec:Introduction}
+	\input{src/Introduction}
+
+	\section{Opportunities and challenges}
+	\label{sec:Challenges}
+	\input{src/Challenges}
+	
+	\section{Valuable features of a code search engine}
+	\label{sec:Features}
+	\input{src/Features}	
+
+	
+	\section{Overview of existing approaches}
+	\label{sec:RelatedWorks}
+	\input{src/RelatedWorks}
+	
+	\section{Proposed approach}
+	\label{sec:ProposedApproach}
+	\input{src/ProposedApproach}
+	
+	
+	\section{Conclusion}
+	\label{sec:Conclusion}
+	\input{src/Conclusion}
+	
+	
+	
+	
+
+	
+	%\input{samplebody-conf}
+	
+	\balance
+	\bibliographystyle{IEEEtranS}
+	\bibliography{IEEEabrv,SurveyCodeSearchers}
+	
+\end{document}
