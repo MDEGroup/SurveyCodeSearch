@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.10)  21 FEB 2019 11:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.10)  21 FEB 2019 18:43
 entering extended mode
 **./SurveyCodeSearchers.tex
 (SurveyCodeSearchers.tex
@@ -823,27 +823,36 @@ Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
 Package: balance 1999/02/23 4.3 (PWD)
 \oldvsize=\dimen262
 )
+("C:\Users\claudio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\rotatin
+g.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count153
+\rotFPtop=\skip60
+\rotFPbot=\skip61
+\rot@float@box=\box42
+\rot@mess@toks=\toks38
+)
 ("C:\Users\claudio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listing
 s.sty"
-\lst@mode=\count153
-\lst@gtempboxa=\box42
-\lst@token=\toks38
-\lst@length=\count154
+\lst@mode=\count154
+\lst@gtempboxa=\box43
+\lst@token=\toks39
+\lst@length=\count155
 \lst@currlwidth=\dimen263
-\lst@column=\count155
-\lst@pos=\count156
+\lst@column=\count156
+\lst@pos=\count157
 \lst@lostspace=\dimen264
 \lst@width=\dimen265
-\lst@newlines=\count157
-\lst@lineno=\count158
+\lst@newlines=\count158
+\lst@lineno=\count159
 \lst@maxwidth=\dimen266
 
 ("C:\Users\claudio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc
 .sty"
 File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
-\c@lstnumber=\count159
-\lst@skipnumbers=\count160
-\lst@framebox=\box43
+\c@lstnumber=\count160
+\lst@skipnumbers=\count161
+\lst@framebox=\box44
 )
 ("C:\Users\claudio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listing
 s.cfg"
@@ -873,75 +882,75 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )) (SurveyCodeSearchers.aux)
 \openout1 = `SurveyCodeSearchers.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-Package nag Info: pgf.sty is broken: disabling dollar check on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+Package nag Info: pgf.sty is broken: disabling dollar check on input line 43.
 Package nag Info: Command \frontmatter not defined, skipping amendment on input
- line 42.
+ line 43.
 Package nag Info: Command \mainmatter not defined, skipping amendment on input 
-line 42.
+line 43.
 Package nag Info: Command \backmatter not defined, skipping amendment on input 
-line 42.
+line 43.
 Package nag Info: Command \RaggedLeft not defined, skipping amendment on input 
-line 42.
+line 43.
 Package nag Info: Command \RaggedRight not defined, skipping amendment on input
- line 42.
+ line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <5> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <7> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <11> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 43.
 
 -- Lines per column: 56 (exact).
-\AtBeginShipoutBox=\box44
-Package hyperref Info: Link coloring ON on input line 42.
+\AtBeginShipoutBox=\box45
+Package hyperref Info: Link coloring ON on input line 43.
 
 ("C:\Users\claudio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref
 .sty"
@@ -951,11 +960,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 tlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count161
+\c@section@level=\count162
 )
-LaTeX Info: Redefining \ref on input line 42.
-LaTeX Info: Redefining \pageref on input line 42.
-LaTeX Info: Redefining \nameref on input line 42.
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
  (SurveyCodeSearchers.out) (SurveyCodeSearchers.out)
 \@outlinefile=\write4
 \openout4 = `SurveyCodeSearchers.out'.
@@ -964,17 +973,17 @@ LaTeX Info: Redefining \nameref on input line 42.
 ("C:\Users\claudio\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.
 mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count162
+\scratchcounter=\count163
 \scratchdimen=\dimen267
-\scratchbox=\box45
-\nofMPsegments=\count163
-\nofMParguments=\count164
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count165
+\scratchbox=\box46
+\nofMPsegments=\count164
+\nofMParguments=\count165
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count166
 \MPscratchDim=\dimen268
-\MPnumerator=\count166
-\makeMPintoPDFobject=\count167
-\everyMPtoPDFconversion=\toks40
+\MPnumerator=\count167
+\makeMPintoPDFobject=\count168
+\everyMPtoPDFconversion=\toks41
 )
 ("C:\Users\claudio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopd
 f-base.sty"
@@ -995,19 +1004,19 @@ G,.JBIG2,.JB2,.eps]
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 42.
+loading the todonotes package. on input line 43.
 
-\c@lstlisting=\count168
+\c@lstlisting=\count169
 Package nag Info: Command \caption@xlabel not defined, skipping amendment on in
-put line 42.
+put line 43.
 Package nag Info: Command \captionabove not defined, skipping amendment on inpu
-t line 42.
+t line 43.
 Package nag Info: Command \captionbelow not defined, skipping amendment on inpu
-t line 42.
+t line 43.
 Package nag Info: Command \hc@caption not defined, skipping amendment on input 
-line 42.
+line 43.
 Package nag Info: Command \topcaption not defined, skipping amendment on input 
-line 42.
+line 43.
 
 LaTeX Warning: No \author given.
 
@@ -1068,12 +1077,7 @@ Underfull \hbox (badness 5832) in paragraph at lines 25--26
 \T1/ptm/m/n/10 CodeFinder, that per-forms rec-om-men-da-tions us-ing the
  []
 
-) (src/ProposedApproach.tex) (src/Conclusion.tex) (SurveyCodeSearchers.bbl
-
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
-
-[4])
+) [4] (src/ProposedApproach.tex) (src/Conclusion.tex) (SurveyCodeSearchers.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -1086,38 +1090,24 @@ Before submitting the final camera ready copy, remember to:
  process uses the appropriate paper size.
 
 No complaints by nag.
-
-Overfull \vbox (0.86597pt too high) has occurred while \output is active []
-
-
 [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
  (SurveyCodeSearchers.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
-
-
-Package rerunfilecheck Warning: File `SurveyCodeSearchers.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `SurveyCodeSearchers.out':
-(rerunfilecheck)             Before: EF5FC3097FEA5285CB2AC3DAA3148919;1329
-(rerunfilecheck)             After:  EDFC23EB622C0A83FF1D5FE19D144B55;1325.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 97.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
+Package rerunfilecheck Info: File `SurveyCodeSearchers.out' has not changed.
+(rerunfilecheck)             Checksum: EDFC23EB622C0A83FF1D5FE19D144B55;1325.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
  ) 
 Here is how much of TeX's memory you used:
- 21435 strings out of 492970
- 407816 string characters out of 3125705
- 510228 words of memory out of 3000000
- 24874 multiletter control sequences out of 15000+200000
+ 21500 strings out of 492970
+ 408759 string characters out of 3125705
+ 511438 words of memory out of 3000000
+ 24936 multiletter control sequences out of 15000+200000
  113016 words of font info for 127 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,8n,80p,2288b,481s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,8n,80p,2476b,353s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/claudio/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.e
 nc}<C:/Users/claudio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy7.pfb><C:/Users/claudio/AppData/Local/Programs/MiKTeX 2.9/fonts/type
@@ -1126,7 +1116,7 @@ e1/urw/times/utmb8a.pfb><C:/Users/claudio/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/urw/times/utmbi8a.pfb><C:/Users/claudio/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/claudio/AppData/Local/Programs/M
 iKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on SurveyCodeSearchers.pdf (5 pages, 269683 bytes).
+Output written on SurveyCodeSearchers.pdf (5 pages, 270561 bytes).
 PDF statistics:
  198 PDF objects out of 1000 (max. 8388607)
  163 compressed objects within 2 object streams

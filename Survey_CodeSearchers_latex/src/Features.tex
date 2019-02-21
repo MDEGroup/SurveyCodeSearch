@@ -1,14 +1,17 @@
 Considering all these information, we can list several features that should be taken into consideration and implemented during the development of a recommendation system based on retrieving source code. The key features are: 
 \begin{itemize}
-\item The query mechanism;
-\item  The similarity criteria;
+\item The query context (code + text);
+\item  The similarity criteria; %to see
+\item Code parsing;
 \item  How it indexes the data (if present);
+\item Use of Lucene library;
 \item The post-ranking process (if present);
 \item The source of the recommended snippets (S0,Github);
-\item The tool interoperability support  (plugin,Web client);
 \item The supported languages;
 \item Tool availability;
 \item Validation framework of results
 
 \end{itemize}
+Regarding the query, we are interested in the approaches that use the source code of context as the prior element of the search, plus eventually the plain text. So, we exclude from this comparison the tools that use a query purely user-based. For the indexes, we what to investigate how the tool use it and in which way. In particular, we give more relevance to the approaches that use Lucene, as we use this library for indexing and retrieval phase and we can make the comparison in a fair and unbiased way. Code parsing task is another choice that should affect the entire process and we describe the employed technique for each tool (like AST parsing, keyword extraction and so on). We are interested also if the tool includes a post-ranking phase, in order to filter or rearrange the obtained results.   From the availability point of view, we investigate also the sources where the authors take the provided recommendations,  the tool availability on GitHub or other platforms, the kind of evaluation on the results and the supported languages.
+
 Of course, this list is only a small part of possible features but we have focused on this subset to perform a more complete and qualitative investigation on them. 
